@@ -1,0 +1,1 @@
+A simple snake game controlled using the arrow keys can be played anywhere.Just move the snake using arrow keys and eat food to grow.
